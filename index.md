@@ -1,4 +1,4 @@
-## Welcome to Cyber Security & Web Design
+# Welcome to Cyber Security & Web Design
 
 You can use the [editor on GitHub](https://github.com/ThePlantEcologist/Cyber-Security-Web-Design/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
